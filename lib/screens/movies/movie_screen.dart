@@ -70,7 +70,7 @@ class _MovieScreenState extends State<MovieScreen> {
       body:Column(
         children: [
 
-          ),
+
           Expanded(
             child: GridView.builder(
                     gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
